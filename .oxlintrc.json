@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "import",
+    "typescript",
+    "unicorn"
+  ],
+  "env": {
+    "deno": true
+  }
+}

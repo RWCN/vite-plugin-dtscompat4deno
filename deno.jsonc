@@ -1,0 +1,11 @@
+{
+  "name": "@rwcn/vite-plugin-dtscompat4deno",
+  "exports": {
+    ".": "./lib.ts"
+  },
+  "version": "0.0.1",
+  "imports": {
+    "fast-glob": "npm:fast-glob@^3.3.3",
+    "vite": "npm:vite@^6.3.5"
+  }
+}
