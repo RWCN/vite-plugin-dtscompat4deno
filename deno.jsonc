@@ -7,5 +7,12 @@
   "imports": {
     "fast-glob": "npm:fast-glob@^3.3.3",
     "vite": "npm:vite@^6.3.5"
+  },
+  "publish": {
+    "include": [
+      "lib.ts",
+      "LICENSE",
+      "README.md"
+    ]
   }
 }
